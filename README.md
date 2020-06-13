@@ -8,3 +8,4 @@
 
 ### Control Flow Graph
 ![graph](https://github.com/sarakoceva57/SI_lab2_186041/blob/master/graph.png)
+![kod](https://github.com/sarakoceva57/SI_lab2_186041/blob/master/kod.png)
