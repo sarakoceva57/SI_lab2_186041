@@ -9,3 +9,14 @@
 ### Control Flow Graph
 ![graph](https://github.com/sarakoceva57/SI_lab2_186041/blob/master/graph.png)
 ![kod](https://github.com/sarakoceva57/SI_lab2_186041/blob/master/kod.png)
+
+### Цикломатска комплексност
+Цикломатската комплексност на оваа функција е 9.Тоа го добив по дадената формула која е E-V+2,каде Е е бројот на ребра а V e бројот на темиња,односно кога ке замениме во формулата добиваме 24-17+2=9.
+
+### Тест случаи според критериумот Every statement
+
+
+### Тест случаи според критериумот Multiple condtition
+
+
+### Објаснување на напишаните unit tests
