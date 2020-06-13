@@ -7,3 +7,4 @@
 Ја добив групата бр 4
 
 ### Control Flow Graph
+![graph1] https://github.com/sarakoceva57/SI_lab2_186041/blob/master/graph.png
